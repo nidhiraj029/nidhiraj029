@@ -217,7 +217,7 @@ I'm particularly interested in areas such as:
 
 I'm always interested in connecting with people working on **AI, Machine Learning, software engineering, intelligent systems, and emerging technologies**.
 
-**GitHub:** [@NidhirajBhandari](https://github.com/NidhirajBhandari)
+**GitHub:** [@nidhiraj029](https://github.com/nidhiraj029)
 
 **LinkedIn:** https://www.linkedin.com/in/nidhiraj-bhandary-318533342?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
